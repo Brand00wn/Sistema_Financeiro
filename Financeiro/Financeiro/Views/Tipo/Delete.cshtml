@@ -1,0 +1,32 @@
+﻿@model Financeiro.Models.Tipo
+
+@{
+    ViewBag.Title = "Tipos";
+}
+
+<h2>Deletar Tipo</h2>
+
+<h3>Tem certeza que deseja deletar este tipo?</h3>
+<div>
+    
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Tipo1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tipo1)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="button" class="btn btn-default" value="Não" onclick="location.href='@Url.Action("Index", "Tipo")'" />
+            <input type="submit" value="Sim, delete!" class="btn btn-default" />
+        </div>
+    }
+</div>

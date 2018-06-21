@@ -1,0 +1,116 @@
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\ApplicationInsights.config
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\roslyn\csc.exe
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\roslyn\System.Collections.Immutable.dll
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\roslyn\vbc.exe
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\roslyn\VBCSCompiler.exe
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\roslyn\VBCSCompiler.exe.config
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\Financeiro.dll.config
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\Financeiro.dll
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\Financeiro.pdb
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\Antlr3.Runtime.dll
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\EntityFramework.dll
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\EntityFramework.SqlServer.dll
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\Microsoft.AI.Web.dll
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\Microsoft.AI.WindowsServer.dll
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\Microsoft.ApplicationInsights.dll
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\Microsoft.Web.Infrastructure.dll
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\Newtonsoft.Json.dll
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\System.Web.Helpers.dll
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\System.Web.Mvc.dll
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\System.Web.Optimization.dll
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\System.Web.Razor.dll
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\System.Web.WebPages.Deployment.dll
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\System.Web.WebPages.dll
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\System.Web.WebPages.Razor.dll
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\WebGrease.dll
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\EntityFramework.xml
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\EntityFramework.SqlServer.xml
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\Microsoft.AI.Web.xml
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\Microsoft.AI.WindowsServer.xml
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\Microsoft.ApplicationInsights.xml
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\System.Web.Helpers.xml
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\System.Web.Mvc.xml
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\System.Web.Optimization.xml
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\System.Web.Razor.xml
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\System.Web.WebPages.xml
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\System.Web.WebPages.Deployment.xml
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\System.Web.WebPages.Razor.xml
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\Antlr3.Runtime.pdb
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\Newtonsoft.Json.xml
+c:\users\gustavo\desktop\Financeiro\Financeiro\obj\Debug\Financeiro.csprojResolveAssemblyReference.cache
+c:\users\gustavo\desktop\Financeiro\Financeiro\obj\Debug\Financeiro.dll
+c:\users\gustavo\desktop\Financeiro\Financeiro\obj\Debug\Financeiro.pdb
+c:\users\gustavo\desktop\Financeiro\Financeiro\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\ApplicationInsights.config
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\roslyn\csc.exe
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\roslyn\vbc.exe
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\Financeiro.dll.config
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\Financeiro.dll
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\Financeiro.pdb
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\Antlr3.Runtime.dll
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\EntityFramework.dll
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\EntityFramework.SqlServer.dll
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\Microsoft.AI.Web.dll
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\Newtonsoft.Json.dll
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\System.Web.Helpers.dll
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\System.Web.Mvc.dll
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\System.Web.Optimization.dll
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\System.Web.Razor.dll
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\System.Web.WebPages.dll
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\System.Web.WebPages.Razor.dll
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\WebGrease.dll
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\EntityFramework.xml
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\EntityFramework.SqlServer.xml
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\Microsoft.AI.Web.xml
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\System.Web.Helpers.xml
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\System.Web.Mvc.xml
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\System.Web.Razor.xml
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\System.Web.WebPages.xml
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\System.Web.Optimization.xml
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\Antlr3.Runtime.pdb
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\Newtonsoft.Json.xml
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\obj\Debug\Financeiro.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\obj\Debug\Financeiro.dll
+C:\Users\Gustavo\Desktop\DTI (2)\Financeiro\Financeiro\obj\Debug\Financeiro.pdb

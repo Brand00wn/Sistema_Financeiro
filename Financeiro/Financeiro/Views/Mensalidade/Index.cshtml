@@ -1,0 +1,84 @@
+﻿@model IEnumerable<Financeiro.Models.Mensalidade>
+
+@{
+    ViewBag.Title = "Mensalidades";
+}
+
+<h2>Mensalidades</h2>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <input type="button" class="btn btn-default" value="Cadastrar Mensalidade" onclick="location.href='@Url.Action("Create", "Mensalidade")'" />
+        </div>
+
+        <div class="col-md-6">
+            <p style="float: right">
+                Data Hoje: @DateTime.Now.ToString("dd/MM/yyyy")
+            </p>
+        </div>
+    </div>
+</div><br>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Curso.Tipo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Curso.NomeCurso)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ValorMensalidade)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DataVencimento)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.JurosAoDia)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PercentualBolsa)
+        </th>
+        <th>
+            Valor Pagar
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Curso.Tipo.Tipo1)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Curso.NomeCurso)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ValorMensalidade)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DataVencimento)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.JurosAoDia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PercentualBolsa)
+            </td>
+            <td>
+                @{
+                    var valorPagar = item.calculaValor(item.ValorMensalidade, item.DataVencimento, item.PercentualBolsa, item.JurosAoDia);
+                }
+                R$@valorPagar
+            </td>
+            <td>
+                @Html.ActionLink("Alterar", "Edit", new { id = item.idMensalidade }) |
+                @Html.ActionLink("Deletar", "Delete", new { id = item.idMensalidade })
+            </td>
+        </tr>
+                    }
+
+</table>

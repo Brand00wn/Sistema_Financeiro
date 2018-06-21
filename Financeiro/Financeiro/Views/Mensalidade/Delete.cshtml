@@ -1,0 +1,65 @@
+﻿@model Financeiro.Models.Mensalidade
+
+@{
+    ViewBag.Title = "Mensalidades";
+}
+
+<h2>Deletar Mensalidade</h2>
+
+<h3>Tem certeza que deseja apagar estes registros?</h3>
+<div>
+
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Curso.NomeCurso)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Curso.NomeCurso)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ValorMensalidade)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ValorMensalidade)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DataVencimento)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DataVencimento)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.JurosAoDia)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.JurosAoDia)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PercentualBolsa)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PercentualBolsa)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="button" class="btn btn-default" value="Não" onclick="location.href='@Url.Action("Index", "Mensalidade")'" />
+            <input type="submit" value="Sim, delete!" class="btn btn-default" />
+        </div>
+    }
+</div>
